@@ -1,7 +1,0 @@
-admin_homepage:
-    path:     /
-    defaults: { _controller: AdminBundle:Default:index }
-
-admin_homepage1:
-  path:     /read
-  defaults: { _controller: AdminBundle:Formation:read }
